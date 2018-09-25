@@ -12,5 +12,10 @@ Have Learned branch branch/checkout -b/merge/branch -d Command.
 Have Learned git log --graph --pretty=oneline.
 
 New acount for testing multi users.
+Have Learned Multi-user cor-operation Command.
+    1.git push origin 'branch'
+    2.git pull
+    3.git remove (-v)
+    4.git branch --set-upstream branch-name origin/branch-name；
 
 My Moving Power.
