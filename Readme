@@ -5,7 +5,9 @@ Have Learned Git Command:
     1.checkout -- Filename: Give Up the Changes of the Working area.
     2.reset HEAD: Give up the changes of the Staging area.
 Have Learned Git rm Command.
-Have Created remote git and up-to-date. 
+Have Created remote git and up-to-date.  
+    1.git remote add origin https://github.com/zengchuanjie1/gitskills.git
+    2.git push -u origin master
 Have Learned branch branch/checkout -b/merge/branch -d Command.
 Have Learned git log --graph --pretty=oneline.
 
