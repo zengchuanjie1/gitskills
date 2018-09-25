@@ -17,5 +17,7 @@ Have Learned Multi-user cor-operation Command.
     2.git pull
     3.git remove (-v)
     4.git branch --set-upstream branch-name origin/branch-name；
+Using the git'ui.
+    :git config --global color.ui true
 
 My Moving Power.
