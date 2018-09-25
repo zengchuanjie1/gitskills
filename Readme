@@ -19,5 +19,10 @@ Have Learned Multi-user cor-operation Command.
     4.git branch --set-upstream branch-name origin/branch-name；
 Using the git'ui.
     :git config --global color.ui true
+Learned git tag command. 
+    1.git tag 
+    2.git show
+    3.git tag -a "tag" -m "explai." commit_id
+
 
 My Moving Power.
